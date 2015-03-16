@@ -1,0 +1,1 @@
+This is a very simple example of how to start a grails application.  Created for use in a Lansing JUG presentation
